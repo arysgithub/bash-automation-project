@@ -1,0 +1,26 @@
+# OS/System Files
+.DS_Store
+Thumbs.db
+
+# Backup Files
+*~
+
+# Log Files
+*.log
+
+# Archives
+*.tar
+*.gz
+*.zip
+
+# Temporary Files
+*.tmp
+*.swp
+
+# VIM/Emacs/Editor Swap Files
+*~
+*.swo
+*.swp
+
+# Bash history (if stored)
+.bash_history
