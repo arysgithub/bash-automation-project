@@ -13,8 +13,8 @@ Create a Bash script (`archive_logs.sh`) that automatically finds `.log` files o
 - Logs actions to `archive_log.txt`
 
 ## 💡 Stretch Goals
-- Complete test logs with dummy data and have an archive (completed)
-- Add CRON job instructions for daily/weekly automation (completed)
+- Do a test on the above features using dummy data (completed)
+- Add CRON job instructions for daily/weekly automation (soon to be compelted)
 - Email notification on completion (future)
 
 ## 📂 Directory Structure
@@ -22,10 +22,8 @@ Create a Bash script (`archive_logs.sh`) that automatically finds `.log` files o
 ```plaintext
 bash-automation-project/
 ├── archive_logs.sh
+├── archive_log.txt
 ├── test_logs/
-│   ├── archives/
-│   │ 	 	├── archive_log.txt
-│   │           ├── archived_logs.tar
 │   ├── new1.log
 │   └── new2.log
 ├── PROJECT_PLAN.md
