@@ -24,10 +24,14 @@ bash-automation-project/
 ├── archive_logs.sh
 ├── archive_log.txt
 ├── test_logs/
+|   ├── archives/
+|   |    ├──archive_log.txt
+|   |    └── archived_logs.tar
 │   ├── new1.log
 │   └── new2.log
 ├── PROJECT_PLAN.md
 └── README.md
+```
 
 ## Technologies Used:
 - Bash
